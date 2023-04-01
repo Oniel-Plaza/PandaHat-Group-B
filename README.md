@@ -8,4 +8,4 @@ Attify IOT Pentesting Kit.
 - James Rodríguez
 - Oniel Plaza
 - Glorián Serrano
-[1]: This lab is still incomplete as we have not figured out how to get the proxy server to work.
+[^1]: This lab is still incomplete as we have not figured out how to get the proxy server to work.
